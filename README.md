@@ -1,2 +1,2 @@
-# AquariusCoin Slovenija Onepage info 
-https://aquarius.coin.si/
+# TajCoin Slovenija Onepage info 
+https://taj.coin.si/
