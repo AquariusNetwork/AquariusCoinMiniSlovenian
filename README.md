@@ -1,4 +1,4 @@
-#TajCoin - TAJ
+TajCoin - TAJ
 
 Web; https://tajcoin.tech
 
