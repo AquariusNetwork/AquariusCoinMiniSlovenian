@@ -9,19 +9,13 @@ FB: https://www.facebook.com/TajCoin/
 
 Twitter: https://twitter.com/TajCoin
 
-Forum:
+Telegram: https://t.me/TajCoin
 
-https://bitcointalk.org/index.php?topic=1545060.0
+Forum: https://bitcointalk.org/index.php?topic=1545060.0
 
-Menjalnice in trg:
+Menjalnice in trg: http://coinmarketcap.com/currencies/TajCoin
 
-http://coinmarketcap.com/currencies/TajCoin
+Raziskovalec transakcij/Blockexplorer: https://chainz.cryptoid.info/taj
 
-
-Raziskovalec transakcij/Blockexplorer:
-https://chainz.cryptoid.info/taj
-
-Denarnice za PC/MAC:
-
-https://github.com/Taj-Coin/tajcoin/releases
+Denarnice za PC/MAC: https://github.com/Taj-Coin/tajcoin/releases
 
